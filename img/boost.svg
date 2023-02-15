@@ -1,0 +1,89 @@
+<svg width="528" height="512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd"
+    d="M266.901 190.902c-2.46-.863-4.886.497-7.614 3.103-2.762 2.638-6.122 6.838-10.533 12.352l-.043.054-33.033 41.291-.045.056c-3.347 4.184-5.913 7.392-7.429 9.98-1.517 2.591-2.125 4.798-1.137 6.853.988 2.055 3.091 2.959 6.062 3.393 2.968.433 7.075.433 12.433.433H235.334c2.849 0 4.911.001 6.483.213 1.551.208 2.513.608 3.229 1.325.716.716 1.116 1.677 1.325 3.228.211 1.572.213 3.634.213 6.484v18.027c0 7.061 0 12.439.508 16.225.502 3.739 1.547 6.316 4.007 7.179 2.461.863 4.886-.497 7.614-3.103 2.762-2.638 6.122-6.838 10.533-12.351l.044-.055 33.032-41.291.045-.056c3.348-4.184 5.913-7.391 7.429-9.979 1.518-2.591 2.125-4.798 1.138-6.854-.988-2.055-3.091-2.959-6.063-3.393-2.967-.432-7.075-.432-12.433-.432H282.667c-2.85 0-4.912-.002-6.484-.213-1.551-.209-2.512-.609-3.228-1.325-.717-.716-1.117-1.678-1.325-3.229-.212-1.572-.213-3.634-.213-6.483V214.307c0-7.061 0-12.44-.509-16.225-.502-3.74-1.546-6.317-4.007-7.18z"
+    fill="url(#prefix__paint0_linear_111_784)" />
+  <circle cx="73" cy="256" r="31" stroke="url(#prefix__paint1_linear_111_784)" stroke-opacity=".08" stroke-width="2" />
+  <circle cx="73" cy="256" r="50" stroke="url(#prefix__paint2_linear_111_784)" stroke-opacity=".12" stroke-width="4" />
+  <circle cx="73" cy="256" r="70" stroke="url(#prefix__paint3_linear_111_784)" stroke-opacity=".16" stroke-width="6" />
+  <circle cx="259" cy="73" r="31" transform="rotate(90 259 73)" stroke="url(#prefix__paint4_linear_111_784)"
+    stroke-opacity=".08" stroke-width="2" />
+  <circle cx="259" cy="73" r="50" transform="rotate(90 259 73)" stroke="url(#prefix__paint5_linear_111_784)"
+    stroke-opacity=".12" stroke-width="4" />
+  <circle cx="259" cy="73" r="70" transform="rotate(90 259 73)" stroke="url(#prefix__paint6_linear_111_784)"
+    stroke-opacity=".16" stroke-width="6" />
+  <circle cx="259" cy="439" r="31" transform="rotate(-90 259 439)" stroke="url(#prefix__paint7_linear_111_784)"
+    stroke-opacity=".08" stroke-width="2" />
+  <circle cx="259" cy="439" r="50" transform="rotate(-90 259 439)" stroke="url(#prefix__paint8_linear_111_784)"
+    stroke-opacity=".12" stroke-width="4" />
+  <circle cx="259" cy="439" r="70" transform="rotate(-90 259 439)" stroke="url(#prefix__paint9_linear_111_784)"
+    stroke-opacity=".16" stroke-width="6" />
+  <circle cx="418" cy="253" r="31" transform="rotate(-180 418 253)" stroke="url(#prefix__paint10_linear_111_784)"
+    stroke-opacity=".08" stroke-width="2" />
+  <circle cx="418" cy="253" r="50" transform="rotate(-180 418 253)" stroke="url(#prefix__paint11_linear_111_784)"
+    stroke-opacity=".12" stroke-width="4" />
+  <circle cx="418" cy="253" r="70" transform="rotate(-180 418 253)" stroke="url(#prefix__paint12_linear_111_784)"
+    stroke-opacity=".16" stroke-width="6" />
+  <defs>
+    <linearGradient id="prefix__paint0_linear_111_784" x1="259.589" y1="321.357" x2="323.967" y2="267.272"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC657" />
+      <stop offset="1" stop-color="#FFD977" />
+    </linearGradient>
+    <linearGradient id="prefix__paint1_linear_111_784" x1="105" y1="256" x2="41" y2="256"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".621" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint2_linear_111_784" x1="125" y1="256" x2="21" y2="256"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".635" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint3_linear_111_784" x1="146" y1="256" x2="0" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".59" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint4_linear_111_784" x1="291" y1="73" x2="227" y2="73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".621" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint5_linear_111_784" x1="311" y1="73" x2="207" y2="73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".635" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint6_linear_111_784" x1="332" y1="73" x2="186" y2="73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".59" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint7_linear_111_784" x1="291" y1="439" x2="227" y2="439"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".621" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint8_linear_111_784" x1="311" y1="439" x2="207" y2="439"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".635" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint9_linear_111_784" x1="332" y1="439" x2="186" y2="439"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".59" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint10_linear_111_784" x1="450" y1="253" x2="386" y2="253"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".621" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint11_linear_111_784" x1="470" y1="253" x2="366" y2="253"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".635" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="prefix__paint12_linear_111_784" x1="491" y1="253" x2="345" y2="253"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset=".59" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,18 @@
+/* настройка скроллбара */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #959b9c bdc4c7;
+}
+
+*::-webkit-scrollbar {
+  width: 9px;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: #bdc4c7;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #959b9c;
+}
+/* ================= */

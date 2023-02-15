@@ -1,0 +1,113 @@
+.footer {
+  width: 100%;
+  border-top: 1px solid var(--active-bg-color);
+}
+
+.footer__wrap {
+  padding: 120px 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-template-rows: auto;
+  grid-template-areas: 'child1 child2 child3 child4 child5';
+  gap: 20px;
+}
+
+.products__wrap:nth-child(1) {
+  grid-area: child1;
+  width: 100%;
+}
+
+.products__wrap:nth-child(2) {
+  grid-area: child2;
+  width: 100%;
+}
+
+.products__wrap:nth-child(3) {
+  grid-area: child3;
+  width: 100%;
+}
+
+.products__wrap:nth-child(4) {
+  grid-area: child4;
+  width: 100%;
+}
+
+.products__wrap:nth-child(5) {
+  grid-area: child5;
+  width: 100%;
+}
+
+.footer__wrap h5 {
+  font-weight: 700;
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  letter-spacing: -0.02em;
+  color: var(--secondary-text-color);
+  margin-bottom: 12px;
+}
+
+.footer__wrap li {
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  letter-spacing: -0.02em;
+  color: var(--active-bg-color);
+  margin-bottom: 12px;
+}
+
+.footer__wrap li a {
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  letter-spacing: -0.02em;
+  color: var(--thirdrate-text-color);
+  transition: color 0.4s ease-in-out;
+}
+
+.footer__wrap a:hover {
+  color: var(--secondary-text-color);
+}
+
+@media (max-width: 780px) {
+  .footer__wrap {
+    padding: 80px 0;
+    grid-template-columns: repeat(3, auto);
+    grid-template-areas:
+      'child1 child2 child3'
+      'child4 child4 child5';
+  }
+  .footer__wrap h5 {
+    font-size: 12px;
+  }
+  .footer__wrap li a {
+    font-size: 12px;
+  }
+  .products__wrap li {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer__wrap {
+    grid-template-columns: repeat(2, auto);
+    grid-template-areas:
+      'child1 child2'
+      'child3 child4'
+      'child5 child5';
+  }
+}
+
+@media (max-width: 360px) {
+  .footer__wrap {
+    padding: 60px 0;
+    grid-template-columns: repeat(1, auto);
+    grid-template-areas:
+      'child1' 
+      'child2'
+      'child3' 
+      'child4'
+      'child5';
+  }
+}
